@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="png">
+    <file>image/add-event.png</file>
+    <file>image/barcode.png</file>
+    <file>image/clarity_storage-line.png</file>
+    <file>image/el_list-alt.png</file>
+    <file>image/emojione_man-light-skin-tone.png</file>
+    <file>image/emojione-monotone_construction-worker.png</file>
+    <file>image/flat-color-icons_sales-performance.png</file>
+    <file>image/fluent_history-20-filled.png</file>
+    <file>image/Group 93.png</file>
+    <file>image/icon-park_history-query.png</file>
+    <file>image/icons8_buy.png</file>
+    <file>image/image.png</file>
+    <file>image/plus (1).png</file>
+    <file>image/plus.png</file>
+    <file>image/Vector.png</file>
+  </qresource>
+</RCC>
